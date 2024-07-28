@@ -1,0 +1,24 @@
+.App {
+  background-color: black;
+  display: flex;
+  flex-direction: column; /* Arrange items in a column */
+  justify-content: center; /* Center items vertically */
+  align-items: center; /* Center items horizontally */
+  height: 100vh; /* Full viewport height */
+}
+
+.para1 {
+  
+  color: aqua;
+  font-family: cursive;
+  display: block;
+  align-content: center;
+}
+.user-btn {
+  font-size: 18px;
+  background-color: aliceblue;
+  color: black;
+  border-radius: 15%;
+  cursor: pointer;
+}
+
